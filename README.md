@@ -9,7 +9,10 @@ Ce projet vous demande de trier des données sur une pile, avec un set d’instr
 * ./push_swap $ARG
 * ./push_swap $ARG | ./checker $ARG
 
-## Authors
+## Visual
 
-flafonso
+* ./push_swap -v $ARG
+
+## Author
+
 adietric
